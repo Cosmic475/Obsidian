@@ -1,0 +1,1 @@
+Remote Desktop Protocol is a good sign the host machine is running windows.
