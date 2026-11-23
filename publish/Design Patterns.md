@@ -23,7 +23,7 @@ Allows two classes with incompatible interfaces to work together by translation
 
 ## Decorator
 
-Allows behaviour to be added to an object by wrapping it inside another object
+Allows behaviour to be added to an individual object at run time by wrapping it inside another object 
 
 
 
