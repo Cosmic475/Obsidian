@@ -16,10 +16,14 @@ There are three categories of patterns:
 
 Allows two classes with incompatible interfaces to work together by translation
 
-By using an adapter, we get to reuse existing components without modification.
-Loose coupling between the clients code, the adapter and the service being adapted to
-	- Eg a Travel Plug adapter - allows you to charge devices by adapting your plug to the correct format without changing your devices or the wall.
-	
+- By using an adapter, we get to reuse existing components without modification.
+- Loose coupling between the clients code, the adapter and the service being adapted to
+- Eg a Travel Plug adapter - allows you to charge devices by adapting your plug to the correct format without changing your devices or the wall.
+
+
+## Decorator
+
+Allows behaviour to be added to a class without modifying 
 
 
 
