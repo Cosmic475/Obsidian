@@ -1,0 +1,1 @@
+A design pattern is a blueprint for an Object 
