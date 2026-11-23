@@ -24,7 +24,8 @@ Allows two classes with incompatible interfaces to work together by translation
 ## Decorator
 
 Allows behaviour to be added to an individual object at run time by wrapping it inside another object. Perhaps more flexible then subclassing
-- When using a subclass, we get rigid combinations like CoffeeWithMilkAndSugar or SMGWithS
+- When using a subclass, we get rigid combinations like CoffeeWithMilkAndSugar or SMGWithReddotAndTorch
+- A decorator instead allows flexible composition by stacking multiple behaviours which are added at runtime
 
 
 
