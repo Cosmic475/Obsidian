@@ -13,4 +13,4 @@ There are three categories of patterns:
 
 
 ### Examples
-- Adapter pattern
+- Adapter - responsible for connecting two classes with incompatible interfaces work together by translating
