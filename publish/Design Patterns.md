@@ -14,4 +14,6 @@ There are three categories of patterns:
 
 ### Examples
 - Adapter - allowing two classes with incompatible interfaces work together by translation
-	- By using an a
+	- By using an adapter, we get to reuse existing components without modification.
+	- Loose coupling betwee
+	- 
