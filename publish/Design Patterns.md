@@ -27,6 +27,8 @@ Allows behaviour to be added to an individual object at run time by wrapping it 
 - When using a subclass, we get rigid combinations like CoffeeWithMilkAndSugar or SMGWithReddotAndTorch
 - A decorator instead allows flexible composition by stacking multiple behaviours which are added at runtime
 
+![[Pasted image 20261123115112.png]]
+
 
 
 
