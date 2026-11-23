@@ -4,3 +4,8 @@ There are three categories of patterns:
 - Creational
 - Structural
 - Behavioural
+
+
+## Structural Patterns
+
+Goal - Compose classes and objects to form large, flexible (loosely coupled) structures
