@@ -16,5 +16,7 @@ There are three categories of patterns:
 - Adapter - allowing two classes with incompatible interfaces work together by translation
 	- By using an adapter, we get to reuse existing components without modification.
 	- Loose coupling between the clients code, the adapter and the service being adapted to
-		
-	
+	- Eg a Travel Plug adapter - allows you to charge devices by adapting your plug to the correct format without changing your devices
+	- 
+
+
