@@ -16,4 +16,6 @@ Subnetting allows us to split a large network into smaller, more manageable chun
 
 ## Multicast Transmission
 - Sent to all devices which are members of a multicast group
-- Uses the IP address that is given to all dev
+- Uses the IP address that is given to all member devices
+	- eg, all printers on the network
+
