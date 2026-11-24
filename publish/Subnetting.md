@@ -19,3 +19,5 @@ Subnetting allows us to split a large network into smaller, more manageable chun
 - Uses the IP address that is given to all member devices
 	- eg, all printers on the network
 
+
+## Broadcast Domains
