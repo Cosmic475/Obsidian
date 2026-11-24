@@ -8,3 +8,7 @@ Subnetting allows us to split a large network into smaller, more manageable chun
 
 ## Unicast Transmission
 - When a packet is sent to a single destination IP address (172.16.4.253)
+
+## Broadcast Transmission
+- When a packet is addressed to every device on the network
+- Packets are s
