@@ -23,4 +23,7 @@ Essentially, when establishing a network and IP was selected based on the number
 
 
 
-Class D was reserved for multicast groups, where
+Class D was reserved for multicast groups, where multiple hosts would share a common IP address rather then individually identifying themselves
+
+Class E was reserved for future experimentation and reserved IP's
+- Interestingly, these IP addresses are still out of range, despite us al
