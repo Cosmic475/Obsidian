@@ -20,3 +20,7 @@ Essentially, when establishing a network and IP was selected based on the number
 	- Hosts per network - 2^ the number of bits in the host segment of the IP address - 16 in class B or 24 in class C. We then subtract two from the final answer because
 		- The first host ID (NetworkID.0) is used to identify the network, and is used in NAT
 		- The last host ID (NetworkID.255) is the broadcast address for the network
+
+
+
+Class D was reserved for multicast groups, where
