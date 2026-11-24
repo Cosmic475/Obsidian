@@ -26,4 +26,5 @@ Essentially, when establishing a network and IP was selected based on the number
 Class D was reserved for multicast groups, where multiple hosts would share a common IP address rather then individually identifying themselves
 
 Class E was reserved for future experimentation and reserved IP's
-- Interestingly, these IP addresses are still out of range, despite us al
+- Interestingly, these IP addresses are still out of range, despite us already exhausting all IPv4 addresses.
+- Motivation to reclaim class E has largely stalled because many legacy operating systems, routers and firewalls are hardcoded to drop packets originating from within this class
