@@ -3,4 +3,4 @@ Subnetting has superseded [[Legacy Class Addressing]], although conceptually sub
 
 > Why do we subnet?
 
-Subnetting allows us to split a large network into small
+Subnetting allows us to split a large network into smaller, more manageable chunks. Chunks may be arranged by device type, their physical location or the service which they provide (all devices in the room/the floor, all printers)
