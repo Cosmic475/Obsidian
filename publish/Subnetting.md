@@ -21,3 +21,5 @@ Subnetting allows us to split a large network into smaller, more manageable chun
 
 
 ## Broadcast Domains
+- Protocols such as [[DHCP]] and [[ARP]] make use of broadcast messages. 
+- A broadcast message is sent by a switch to every device on the network (except for the source device.)
