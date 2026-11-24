@@ -25,4 +25,5 @@ Subnetting allows us to split a large network into smaller, more manageable chun
 - A broadcast message is sent by a switch to every device on the network (except for the source device.)
 - Switches will send broadcast messages between each other
 	- eg 1 router, 3 switches with 25 hosts each. Every device will receive the broadcast
-	- eg 5 hosts, switch, router, router, switch, 5 hosts. Only the 5 hosts and switch on either side of the routes will re
+	- eg 5 hosts, switch, router, router, switch, 5 hosts. Only the 5 hosts and switch on either side of the routes will receive the broadcast
+- Hence we see that routers will not forward broadcasts
