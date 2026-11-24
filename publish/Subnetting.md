@@ -12,4 +12,8 @@ Subnetting allows us to split a large network into smaller, more manageable chun
 ## Broadcast Transmission
 - When a packet is addressed to every device on the network
 - Packets are structured as the Network ID, and then the Host ID is all 1's
-- Used by DHCP and ARP protocols
+- Used by [[DHCP]] and [[ARP]] protocols
+
+## Multicast Transmission
+- Sent to all devices which are members of a multicast group
+- Uses the IP address that is given to all dev
