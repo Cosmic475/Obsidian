@@ -58,5 +58,5 @@ IP Address: 10.150.168.180/27
 
 ### Calculating IP Range
 ---
-Any IP between the network ID and broadcast address is valid
+Any IP between the network ID and broadcast address is valid and on the same network
 
