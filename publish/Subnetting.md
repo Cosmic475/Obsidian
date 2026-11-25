@@ -7,7 +7,7 @@ Subnetting allows us to split a large network into smaller, more manageable chun
 
 Why do we subnet?
 
-
+Critical network protocols such as [[ARP]] and [[DHCP]] require broadcasts to identify hosts on a network
 
 
 ## Unicast Transmission
