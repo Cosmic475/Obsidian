@@ -5,6 +5,10 @@ Subnetting has superseded [[Legacy Class Addressing]], although conceptually sub
 
 Subnetting allows us to split a large network into smaller, more manageable chunks. Chunks may be arranged by device type, their physical location or the service which they provide (all devices in the room/the floor, all printers)
 
+Why do we subnet?
+
+
+
 
 ## Unicast Transmission
 - When a packet is sent to a single destination IP address (172.16.4.253)
@@ -49,4 +53,8 @@ IP Address: 10.150.168.180/27
 | Broadcast address | 10. | 150. | 168  | 1   | 0   | 1   | 1   | 1   | 1   | 1   | 1   |
 - All bits in the original IP address after the network mask become 1's
 > = 10.150.168.191
+
+### Calculating IP Range
+---
+Any IP between the network ID and broadcast address is valid
 
