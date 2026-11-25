@@ -32,4 +32,8 @@ Subnetting allows us to split a large network into smaller, more manageable chun
 
 
 ## Calculating network information
-> Even a single IP address and its subnet mask can tell you how many potential hosts are on the network, 
+> Even a single IP address and its subnet mask can tell you how many potential hosts are on the network, the broadcast address and network ID
+
+### Calculating the network ID
+---
+- Perform a binary AND operation with the IP address and mask. The result is o
