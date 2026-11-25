@@ -36,4 +36,8 @@ Subnetting allows us to split a large network into smaller, more manageable chun
 
 ### Calculating the network ID
 ---
-- Perform a binary AND operation with the IP address and mask. The result is o
+- Perform a binary AND operation with the IP address and mask. The result is your network ID
+
+### Calculating the broadcast address
+---
+
