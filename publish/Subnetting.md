@@ -27,3 +27,9 @@ Subnetting allows us to split a large network into smaller, more manageable chun
 	- eg 1 router, 3 switches with 25 hosts each. Every device will receive the broadcast
 	- eg 5 hosts, switch, router, router, switch, 5 hosts. Only the 5 hosts and switch on either side of the routes will receive the broadcast
 - Hence we see that routers will not forward broadcasts
+
+
+
+
+## Calculating network information
+> Even a single IP address and its subnet mask can tell
