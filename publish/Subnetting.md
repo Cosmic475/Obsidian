@@ -47,6 +47,6 @@ IP Address: 10.150.168.180/27
 | ----------------- | --- | ---- | ---- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Network Mask      | 255 | 255  | 255  | 1   | 1   | 1   | 0   | 0   | 0   | 0   | 0   |
 | Broadcast address | 10. | 150. | 168  | 1   | 0   | 1   | 1   | 1   | 1   | 1   | 1   |
-> = 
-- All segments AFTER the network ID are all 1's
+- All bits in the original IP address after the network mask become 1's
+> = 10.150.168.191
 
