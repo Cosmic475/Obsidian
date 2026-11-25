@@ -32,4 +32,4 @@ Subnetting allows us to split a large network into smaller, more manageable chun
 
 
 ## Calculating network information
-> Even a single IP address and its subnet mask can tell
+> Even a single IP address and its subnet mask can tell you how many potential hosts are on the network, 
