@@ -41,8 +41,8 @@ Subnetting allows us to split a large network into smaller, more manageable chun
 ### Calculating the broadcast address
 ---
 
-| IP address        |     |
-| ----------------- | --- |
-| Network Mask      |     |
-| Broadcast address |     |
+| IP address        | 10. | 150. |     |     |     |     |     |     |     |     |     |
+| ----------------- | --- | ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Network Mask      |     |      |     |     |     |     |     |     |     |     |     |
+| Broadcast address |     |      |     |     |     |     |     |     |     |     |     |
 
