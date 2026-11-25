@@ -6,7 +6,9 @@ Subnetting has superseded [[Legacy Class Addressing]], although conceptually sub
 Subnetting allows us to split a large network into smaller, more manageable chunks. Chunks may be arranged by device type, their physical location or the service which they provide (all devices in the room/the floor, all printers)
 
 
-## Borrowing 
+## "Borrowing"
+---
+
 ## Broadcast Storm
 ---
 Critical network protocols such as [[ARP]] and [[DHCP]] require broadcasts to identify hosts on a network. However, Ethernet Layer 2 lacks a TTL on packets, and so they can often be circulated indefinitely - IF a loop exists between three or more switches [[Smurf]] and [[Fraggle]] attacks may also attempt to exploit this if a particularly large network has been found.
