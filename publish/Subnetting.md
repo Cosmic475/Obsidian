@@ -43,8 +43,10 @@ Subnetting allows us to split a large network into smaller, more manageable chun
 IP Address: 10.150.168.180/27
 (Network Mask): 255.255.255.224
 
-| IP address        | 10. | 150. | 168. | 1   | 0   | 1   | 1   | 0   | 1   | 0   | 0   |     |
-| ----------------- | --- | ---- | ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Network Mask      | 255 | 255  | 255  | 1   | 1   | 1   | 0   | 0   | 0   | 0   | 0   |     |
-| Broadcast address |     |      |      |     |     |     |     |     |     |     |     |     |
+| IP address        | 10. | 150. | 168. | 1   | 0   | 1   | 1   | 0   | 1   | 0   | 0   |
+| ----------------- | --- | ---- | ---- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Network Mask      | 255 | 255  | 255  | 1   | 1   | 1   | 0   | 0   | 0   | 0   | 0   |
+| Broadcast address | 10. | 150. | 168  | 1   | 0   | 1   | 1   | 1   | 1   | 1   | 1   |
+> = 
+- All segments AFTER the network ID are all 1's
 
