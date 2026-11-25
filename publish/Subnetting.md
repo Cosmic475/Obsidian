@@ -9,7 +9,7 @@ Why do we subnet?
 
 
 ## Broadcast Storm
-Critical network protocols such as [[ARP]] and [[DHCP]] require broadcasts to identify hosts on a network. However, Ethernet Layer 2 lacks a TTL on packets, and so they can often be circulated indefinitely. Smurf and Fraggle attacks may also attempt to exploti
+Critical network protocols such as [[ARP]] and [[DHCP]] require broadcasts to identify hosts on a network. However, Ethernet Layer 2 lacks a TTL on packets, and so they can often be circulated indefinitely. Smurf and Fraggle attacks may also attempt to exploit this if a particularly large network has been found
 
 
 ## Unicast Transmission
