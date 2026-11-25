@@ -7,10 +7,12 @@ Subnetting allows us to split a large network into smaller, more manageable chun
 
 Why do we subnet?
 
-Critical network protocols such as [[ARP]] and [[DHCP]] require broadcasts to identify hosts on a network
+
+## Broadcast Storm
+Critical network protocols such as [[ARP]] and [[DHCP]] require broadcasts to identify hosts on a network. However
 
 
-## Unicast Transmission
+## Unicast Transmissionawta
 - When a packet is sent to a single destination IP address (172.16.4.253)
 
 ## Broadcast Transmission
