@@ -36,4 +36,8 @@ This information is then stored within the source hosts ARP table
 
 ## ARP Spoofing
 ---
-One major, fundamental flaw in the design of ARP is that it will update its table to reposonces, even if it didnt send a request
+One major, fundamental flaw in the design of ARP is that it will update its table to responses, even if it didn't send a request
+- How could this be exploited?
+
+
+
