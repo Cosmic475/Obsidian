@@ -9,7 +9,11 @@ Subnetting allows us to split a large network into smaller, more manageable chun
 ---
 Perhaps unintuitively, each connection between routers also requires its own subnet. This is because of the nature of a router - they are bridges between networks. For packets to be routed between them, the packet has to be identified as being on the same network.
 
-To avoid wasting IP addresses, we aim to minimise the number of available host addresses. However, this waste is often unavoida
+To avoid wasting IP addresses, we aim to minimise the number of available host addresses. However, this waste is often unavoidable due to uneven allocation of hosts - a router-router connection always has 0 hosts.
+
+## Variable Length Subnets
+---
+It is possible to subnet a network which itself is a subnet. This is one of the most efficient ways of reducing IP address
 ## "Borrowing" bits from the Host ID
 ---
 Everytime we take another bit from the Host ID and use it to create subnets, we double the number of subnets available and (roughly) half the number of hosts available on each
