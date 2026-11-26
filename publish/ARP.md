@@ -7,6 +7,17 @@ The protocol has two main responsibilities:
 - Maintaining an ARP table of mappings between IPv4 and MAC addresses
 	- (to minimise the number of ARP calls)
 
+## Cisco Router
+---
 ```
 show ip arp
 ```
+- This command will display the ARP table stored within a Cisco router
+
+
+## Windows PC
+---
+```
+arp -a
+```
+- Will show the ARP table stored on a windows computer 
