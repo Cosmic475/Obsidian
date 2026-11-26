@@ -51,5 +51,8 @@ One major, fundamental flaw in the design of ARP is that it will update its tabl
 ### How is this handled in the modern world
 ---
 - IPv6 uses [[NDP]] which utilises encryption and secure cryptographic keys to verify host identities
-- 
+
+### How can this vulnerability be tested?
+---
+- Etterca
 
