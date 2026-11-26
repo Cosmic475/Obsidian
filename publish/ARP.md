@@ -29,4 +29,6 @@ When a source host is trying to send data to a host it does not know the MAC add
 
 The NIC of every connected device will pass the packet to the OS of the host, which will compare the requested IP address to the one it currently holds. If they do not match, the packet is silently dropped.
 
-If they do match, the destination host addre
+If they do match, the destination host addresses its MAC address to the source host and the exchange is made
+
+This inf
