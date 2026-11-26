@@ -7,7 +7,9 @@ Subnetting allows us to split a large network into smaller, more manageable chun
 
 ## Designing Subnets
 ---
-Perhaps unintuitively, each connection between routers also requires its own subnet
+Perhaps unintuitively, each connection between routers also requires its own subnet. This is because of the nature of a router - they are bridges between networks. For packets to be routed between them, the packet has to be identified as being on the same network.
+
+To avoid wasting IP addresses, we 
 ## "Borrowing" bits from the Host ID
 ---
 Everytime we take another bit from the Host ID and use it to create subnets, we double the number of subnets available and (roughly) half the number of hosts available on each
