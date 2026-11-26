@@ -22,7 +22,11 @@ Port 0 is reserved for TCP/IP networking. Inputting this will be treated as a wi
 | `443` (TCP)     | `SSL`/`TLS` (`HTTPS`) |
 | `445` (TCP)     | `SMB`                 |
 | `3389` (TCP)    | [[RDP]]               |
-| 443             | [[HTTPS]              |
+| 443             | [[HTTPS]]             |
+| 53              | [[DNS]]               |
+| 110             | [[POP]]               |
+| 143             | [[IMAP]]              |
+| 67/68           |                       |
 
 - However, these are only the standard allocations and theoretically a network admin could ignore this convention completely. 
 
