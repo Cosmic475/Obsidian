@@ -5,7 +5,9 @@ Subnetting has superseded [[Legacy Class Addressing]], although conceptually sub
 
 Subnetting allows us to split a large network into smaller, more manageable chunks. Chunks may be arranged by device type, their physical location or the service which they provide (all devices in the room/the floor, all printers)
 
-
+## Designing Subnets
+---
+Perhaps unintuitively, each connection between routers also requires its own subnet
 ## "Borrowing" bits from the Host ID
 ---
 Everytime we take another bit from the Host ID and use it to create subnets, we double the number of subnets available and (roughly) half the number of hosts available on each
