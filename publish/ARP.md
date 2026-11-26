@@ -45,5 +45,10 @@ One major, fundamental flaw in the design of ARP is that it will update its tabl
 3. Forged ARP response packets are distributed, giving its own MAC address
 	1. Hosts believe their default gateway is the malicious actor
 	2. The genuine default gateway believes the malicious actor is a genuine host
-4. Each device communicate
+4. Each device communicates with the malicious host, which forwards the packets 
+
+
+### How is this handled in the modern world
+---
+- IPv6 uses 
 
