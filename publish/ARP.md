@@ -43,4 +43,7 @@ One major, fundamental flaw in the design of ARP is that it will update its tabl
 1. A malicious host embeds themself on the network
 2. They scan to discover IP addresses of hosts and a default gateway
 3. Forged ARP response packets are distributed, giving its own MAC address
+	1. Hosts believe their default gateway is the malicious actor
+	2. The genuine default gateway believes the malicious actor is a genuine host
+4. Each device communicate
 
