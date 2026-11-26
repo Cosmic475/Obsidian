@@ -31,4 +31,4 @@ The NIC of every connected device will pass the packet to the OS of the host, wh
 
 If they do match, the destination host addresses its MAC address to the source host and the exchange is made
 
-This inf
+This information is then stored within the source hosts ARP table
