@@ -13,7 +13,7 @@ To avoid wasting IP addresses, we aim to minimise the number of available host a
 
 ## Variable Length Subnets
 ---
-It is possible to subnet a network which itself is a subnet. This is one of the most efficient ways of reducing IP address
+It is possible to subnet a network which itself is a subnet. This is one of the most efficient ways of reducing IP address waste
 ## "Borrowing" bits from the Host ID
 ---
 Everytime we take another bit from the Host ID and use it to create subnets, we double the number of subnets available and (roughly) half the number of hosts available on each
