@@ -54,5 +54,5 @@ One major, fundamental flaw in the design of ARP is that it will update its tabl
 
 ### How can this vulnerability be tested?
 ---
-- Etterca
+- Ettercap (and the )
 
