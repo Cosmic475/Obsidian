@@ -36,4 +36,4 @@ This information is then stored within the source hosts ARP table
 
 ## ARP Spoofing
 ---
-One major, fundamental flaw in the design of ARP is that it will often repo
+One major, fundamental flaw in the design of ARP is that it will update its table to reposonces, even if it didnt send a request
