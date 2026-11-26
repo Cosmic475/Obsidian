@@ -26,7 +26,8 @@ Port 0 is reserved for TCP/IP networking. Inputting this will be treated as a wi
 | 53              | [[DNS]]               |
 | 110             | [[POP]]               |
 | 143             | [[IMAP]]              |
-| 67/68           |                       |
+| 67/68           | [[DHCP]]              |
+| 123             | [[NTP]]               |
 
 - However, these are only the standard allocations and theoretically a network admin could ignore this convention completely. 
 
