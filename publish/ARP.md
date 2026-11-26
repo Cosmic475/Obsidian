@@ -21,3 +21,6 @@ show ip arp
 arp -a
 ```
 - Will show the ARP table stored on a windows computer 
+
+
+## Finding A
