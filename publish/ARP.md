@@ -32,3 +32,8 @@ The NIC of every connected device will pass the packet to the OS of the host, wh
 If they do match, the destination host addresses its MAC address to the source host and the exchange is made
 
 This information is then stored within the source hosts ARP table
+
+
+## ARP Spoofing
+---
+One major, fundamental flaw in the design of ARP is that it will often repo
