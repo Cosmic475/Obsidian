@@ -38,6 +38,9 @@ Critical network protocols such as [[ARP]] and [[DHCP]] require broadcasts to id
 
 
 ## Broadcast Domains
+
+^4581ba
+
 - Protocols such as [[DHCP]] and [[ARP]] make use of broadcast messages. 
 - A broadcast message is sent by a switch to every device on the network (except for the source device.)
 - Switches will send broadcast messages between each other
