@@ -23,4 +23,6 @@ arp -a
 - Will show the ARP table stored on a windows computer 
 
 
-## Finding A
+## Finding a MAC address
+---
+When a source host is trying to send data to a 
