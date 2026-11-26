@@ -25,4 +25,4 @@ arp -a
 
 ## Finding a MAC address
 ---
-When a source host is trying to send data to a 
+When a source host is trying to send data to a host it does not know the MAC address of, it broadcasts using MAC address ff.ff.ff.ff.ff. This packet is then picked up by the network switch, which will be programmed to send this packet to every connected port, excluding the one from which the pac
