@@ -5,4 +5,3 @@ The Internet Protocol is a simple protocol aiming to deliver data from a source 
 	- Best effort - errorless communication is not guaranteed, and requires protocols from a higher level
 	- Media independence - the physical media on which the data is transferred is irrelevant 
 
-Routers a

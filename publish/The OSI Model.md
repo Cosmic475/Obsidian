@@ -68,14 +68,6 @@ Assuming the devices are physically connected on the same network:
 - Provides pathfinding for best routing of data to remote networks
 	- Anywhere in the world
 
-## Routers
-
-- Routers have at least two physical network interface cards so that it can belong to two networks and bridge between them (act as a gateway)
-
-## Internet Protocol (IP)
-
-
-
 
 ## Sending data
 
