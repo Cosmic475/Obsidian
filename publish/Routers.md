@@ -4,3 +4,7 @@ Routers will make a decision on the best place to forward a packet they receive 
 - EIGPR (Enhanced Interior Gateway Routing Protocol)
 - OSPF (Open Shortest Path First)
 - BGP (Border Gateway Protocol)
+
+Further research:
+https://www.comparitech.com/net-admin/routing-protocol-types-guide/
+
