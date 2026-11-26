@@ -8,7 +8,8 @@ Subnetting allows us to split a large network into smaller, more manageable chun
 
 ## "Borrowing" bits from the Host ID
 ---
-Everytime we take another bit from the Host ID and use it to create subnets, we double the number of subnets available and (roughly) half the number of ho
+Everytime we take another bit from the Host ID and use it to create subnets, we double the number of subnets available and (roughly) half the number of hosts available on each
+- Why only roughly half? Because each subnet also requires its own network ID and broadcast address.
 ## Broadcast Storm
 ---
 Critical network protocols such as [[ARP]] and [[DHCP]] require broadcasts to identify hosts on a network. However, Ethernet Layer 2 lacks a TTL on packets, and so they can often be circulated indefinitely - IF a loop exists between three or more switches [[Smurf]] and [[Fraggle]] attacks may also attempt to exploit this if a particularly large network has been found.
