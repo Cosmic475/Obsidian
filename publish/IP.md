@@ -14,4 +14,4 @@ The Internet Protocol is a simple protocol aiming to deliver data from a source 
 |                                     |                                                    |
 
 - Useful for servers which will want a fixed address
-- Monitor 
+- Administrative tasks such as monitoring become easier
