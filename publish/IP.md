@@ -8,10 +8,10 @@ The Internet Protocol is a simple protocol aiming to deliver data from a source 
 ## Addressing
 ---
 
-| Static                                                                                                          | Dynamic                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| An IP address which does not change                                                                             | Changes on reconnection or at predefined intervals                                                      |
-| - Useful for servers which will want a fixed address<br>- Administrative tasks such as monitoring become easier | - May reduce the likelihood of your device being geolocated<br>- Reduced administration time -> cheaper |
-| - More complex to setup                                                                                         |                                                                                                         |
-|                                                                                                                 |                                                                                                         |
+| Static                                                                                                                  | Dynamic                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| An IP address which does not change                                                                                     | Changes on reconnection or at predefined intervals                                                      |
+| - Useful for servers which will want a fixed address<br>- Administrative tasks such as monitoring become easier         | - May reduce the likelihood of your device being geolocated<br>- Reduced administration time -> cheaper |
+| - May be more vulnerable to hacking because its address is fixed for a longer period of time<br>- More complex to setup |                                                                                                         |
+|                                                                                                                         |                                                                                                         |
 
