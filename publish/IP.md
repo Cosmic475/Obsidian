@@ -2,18 +2,15 @@ The Internet Protocol is a simple protocol aiming to deliver data from a source 
 
 - Governs how data is sent across a wide area network, on three assumptions:
 	- Connectionless - remote devices do not have to be aware of each other.
-	- Best effort - errorless communication is not guaranteed, and requires protocols from a higher level
+	- Best effort - errorless communication is not guaranteed, and requires protocols from a higher level  (Transport Layer)
 	- Media independence - the physical media on which the data is transferred is irrelevant 
 
 ## Addressing
 ---
 
-| Static                                                                                                                  | Dynamic                                                                                                 |
-| ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| An IP address which does not change                                                                                     | Changes on reconnection or at predefined intervals                                                      |
-| - Useful for servers which will want a fixed address<br>- Administrative tasks such as monitoring become easier         | - May reduce the likelihood of your device being geolocated<br>- Reduced administration time -> cheaper |
-| - May be more vulnerable to hacking because its address is fixed for a longer period of time<br>- More complex to setup |                                                                                                         |
-|                                                                                                                         |                                                                                                         |
+| Static                                                                                                                  | Dynamic                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| An IP address which does not change                                                                                     | Changes on reconnection or at predefined intervals                                                                                                        |
+| - Useful for servers which will want a fixed address<br>- Administrative tasks such as monitoring become easier         | - May reduce the likelihood of your device being geolocated<br>- Reduced administration time -> cheaper                                                   |
+| - May be more vulnerable to hacking because its address is fixed for a longer period of time<br>- More complex to setup | <br>- May cause connection to temporarily drop while IP addresses are changing<br>- Relies an active DHCP server on the network<br>- DHCP vulnerabilities |
 
-- May cause connection to temporarily drop while IP addresses are changing
-- 
