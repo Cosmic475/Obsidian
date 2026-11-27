@@ -15,3 +15,5 @@ The Internet Protocol is a simple protocol aiming to deliver data from a source 
 | - May be more vulnerable to hacking because its address is fixed for a longer period of time<br>- More complex to setup |                                                                                                         |
 |                                                                                                                         |                                                                                                         |
 
+- May cause connection to temporarily drop while IP addresses are changing
+- 
