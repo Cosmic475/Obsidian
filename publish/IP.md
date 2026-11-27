@@ -8,7 +8,7 @@ The Internet Protocol is a simple protocol aiming to deliver data from a source 
 ## Addressing
 ---
 
-| Static        | Dynamic |
-| ------------- | ------- |
-| An IP address |         |
+| Static                              | Dynamic |
+| ----------------------------------- | ------- |
+| An IP address which does not change |         |
 
